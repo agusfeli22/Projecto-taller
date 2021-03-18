@@ -10,6 +10,13 @@ namespace Proyecto_de_Taller
         string Apellido;
         int Telefono;
         string Mail;
+        string NombreCompleto = Nombre + Apellido;
+        
+
+        public Usuario ()
+        {
+            Usuario usu = new Usuario();
+        }
 
     }
 }
