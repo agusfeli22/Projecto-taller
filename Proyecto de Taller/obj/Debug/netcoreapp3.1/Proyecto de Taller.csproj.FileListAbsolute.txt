@@ -1,0 +1,15 @@
+C:\Users\agusf\source\repos\Proyecto de Taller\Proyecto de Taller\bin\Debug\netcoreapp3.1\Proyecto de Taller.exe
+C:\Users\agusf\source\repos\Proyecto de Taller\Proyecto de Taller\bin\Debug\netcoreapp3.1\Proyecto de Taller.deps.json
+C:\Users\agusf\source\repos\Proyecto de Taller\Proyecto de Taller\bin\Debug\netcoreapp3.1\Proyecto de Taller.runtimeconfig.json
+C:\Users\agusf\source\repos\Proyecto de Taller\Proyecto de Taller\bin\Debug\netcoreapp3.1\Proyecto de Taller.runtimeconfig.dev.json
+C:\Users\agusf\source\repos\Proyecto de Taller\Proyecto de Taller\bin\Debug\netcoreapp3.1\Proyecto de Taller.dll
+C:\Users\agusf\source\repos\Proyecto de Taller\Proyecto de Taller\bin\Debug\netcoreapp3.1\Proyecto de Taller.pdb
+C:\Users\agusf\source\repos\Proyecto de Taller\Proyecto de Taller\obj\Debug\netcoreapp3.1\Proyecto de Taller.csprojAssemblyReference.cache
+C:\Users\agusf\source\repos\Proyecto de Taller\Proyecto de Taller\obj\Debug\netcoreapp3.1\Proyecto_de_Taller.Form1.resources
+C:\Users\agusf\source\repos\Proyecto de Taller\Proyecto de Taller\obj\Debug\netcoreapp3.1\Proyecto de Taller.csproj.GenerateResource.cache
+C:\Users\agusf\source\repos\Proyecto de Taller\Proyecto de Taller\obj\Debug\netcoreapp3.1\Proyecto de Taller.AssemblyInfoInputs.cache
+C:\Users\agusf\source\repos\Proyecto de Taller\Proyecto de Taller\obj\Debug\netcoreapp3.1\Proyecto de Taller.AssemblyInfo.cs
+C:\Users\agusf\source\repos\Proyecto de Taller\Proyecto de Taller\obj\Debug\netcoreapp3.1\Proyecto de Taller.csproj.CoreCompileInputs.cache
+C:\Users\agusf\source\repos\Proyecto de Taller\Proyecto de Taller\obj\Debug\netcoreapp3.1\Proyecto de Taller.dll
+C:\Users\agusf\source\repos\Proyecto de Taller\Proyecto de Taller\obj\Debug\netcoreapp3.1\Proyecto de Taller.pdb
+C:\Users\agusf\source\repos\Proyecto de Taller\Proyecto de Taller\obj\Debug\netcoreapp3.1\Proyecto de Taller.genruntimeconfig.cache

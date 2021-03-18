@@ -28,13 +28,61 @@
         /// </summary>
         private void InitializeComponent()
         {
-            this.components = new System.ComponentModel.Container();
+            this.btnSaludo = new System.Windows.Forms.Button();
+            this.lblMensaje = new System.Windows.Forms.Label();
+            this.btnDespedida = new System.Windows.Forms.Button();
+            this.SuspendLayout();
+            // 
+            // btnSaludo
+            // 
+            this.btnSaludo.Location = new System.Drawing.Point(48, 375);
+            this.btnSaludo.Name = "btnSaludo";
+            this.btnSaludo.Size = new System.Drawing.Size(94, 29);
+            this.btnSaludo.TabIndex = 0;
+            this.btnSaludo.Text = "Saludo";
+            this.btnSaludo.UseVisualStyleBackColor = true;
+            this.btnSaludo.Click += new System.EventHandler(this.btnSaludo_Click);
+            // 
+            // lblMensaje
+            // 
+            this.lblMensaje.AutoSize = true;
+            this.lblMensaje.Location = new System.Drawing.Point(68, 313);
+            this.lblMensaje.Name = "lblMensaje";
+            this.lblMensaje.Size = new System.Drawing.Size(50, 20);
+            this.lblMensaje.TabIndex = 1;
+            this.lblMensaje.Text = "label1";
+            // 
+            // btnDespedida
+            // 
+            this.btnDespedida.Location = new System.Drawing.Point(664, 387);
+            this.btnDespedida.Name = "btnDespedida";
+            this.btnDespedida.Size = new System.Drawing.Size(94, 29);
+            this.btnDespedida.TabIndex = 2;
+            this.btnDespedida.Text = "Despedida";
+            this.btnDespedida.UseVisualStyleBackColor = true;
+            this.btnDespedida.Click += new System.EventHandler(this.btnDespedida_Click);
+            // 
+            // Form1
+            // 
+            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 20F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(800, 450);
-            this.Text = "Form1";
+            this.ClientSize = new System.Drawing.Size(812, 498);
+            this.Controls.Add(this.btnDespedida);
+            this.Controls.Add(this.lblMensaje);
+            this.Controls.Add(this.btnSaludo);
+            this.Name = "Form1";
+            this.Text = " Falso Netflix ";
+            this.Load += new System.EventHandler(this.Form1_Load);
+            this.ResumeLayout(false);
+            this.PerformLayout();
+
         }
 
         #endregion
+
+        private System.Windows.Forms.Button btnSaludo;
+        private System.Windows.Forms.Label lblMensaje;
+        private System.Windows.Forms.Button btnDespedida;
     }
 }
 

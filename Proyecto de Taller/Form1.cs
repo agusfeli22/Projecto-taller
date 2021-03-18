@@ -17,5 +17,20 @@ namespace Proyecto_de_Taller
             InitializeComponent();
         }
 
+        private void btnSaludo_Click(object sender, EventArgs e)
+        {
+            lblMensaje.Text = "Hola soy un mensaje.";
+        }
+
+        private void btnDespedida_Click(object sender, EventArgs e)
+        {
+            lblMensaje.Text = "Adios amigos";
+            this.Text = "Buenaso";
+        }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+            lblMensaje.Text = "";
+        }
     }
 }
