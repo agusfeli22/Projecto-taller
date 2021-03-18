@@ -6,17 +6,17 @@ namespace Proyecto_de_Taller
 {
     class Usuario
     {
-        string Nombre;
-        string Apellido;
-        int Telefono;
-        string Mail;
-        string NombreCompleto = Nombre + Apellido;
-        
+        string nombre;
+        string apellido;
+        int telefono;
+        string mail;
+               
 
-        public Usuario ()
+        public Usuario(string nombre, string apellido)
         {
-            Usuario usu = new Usuario();
+            this.nombre = nombre;
+            this.apellido = apellido;
+            string nombreCompleto = nombre + apellido;
         }
-
     }
 }
