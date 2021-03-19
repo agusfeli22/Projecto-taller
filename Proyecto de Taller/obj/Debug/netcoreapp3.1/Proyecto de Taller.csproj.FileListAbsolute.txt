@@ -13,3 +13,4 @@ C:\Users\agusf\source\repos\Proyecto de Taller\Proyecto de Taller\obj\Debug\netc
 C:\Users\agusf\source\repos\Proyecto de Taller\Proyecto de Taller\obj\Debug\netcoreapp3.1\Proyecto de Taller.dll
 C:\Users\agusf\source\repos\Proyecto de Taller\Proyecto de Taller\obj\Debug\netcoreapp3.1\Proyecto de Taller.pdb
 C:\Users\agusf\source\repos\Proyecto de Taller\Proyecto de Taller\obj\Debug\netcoreapp3.1\Proyecto de Taller.genruntimeconfig.cache
+C:\Users\agusf\source\repos\Proyecto de Taller\Proyecto de Taller\obj\Debug\netcoreapp3.1\Proyecto_de_Taller.Properties.Resources.resources
