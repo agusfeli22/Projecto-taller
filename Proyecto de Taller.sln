@@ -3,7 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30413.136
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Proyecto de Taller", "Proyecto de Taller\Proyecto de Taller.csproj", "{7E252026-809D-4A17-A850-7A5549289662}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Proyecto de Taller", "Proyecto de Taller\Proyecto de Taller.csproj", "{7E252026-809D-4A17-A850-7A5549289662}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Data", "Data\Data.csproj", "{3B86D7A1-DE9D-42BC-A7CF-9C4358D6E5FB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Logica", "Logica\Logica.csproj", "{1B3A04DF-6FD2-4DD6-AD08-ED8182069367}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +19,14 @@ Global
 		{7E252026-809D-4A17-A850-7A5549289662}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7E252026-809D-4A17-A850-7A5549289662}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7E252026-809D-4A17-A850-7A5549289662}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3B86D7A1-DE9D-42BC-A7CF-9C4358D6E5FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B86D7A1-DE9D-42BC-A7CF-9C4358D6E5FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B86D7A1-DE9D-42BC-A7CF-9C4358D6E5FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B86D7A1-DE9D-42BC-A7CF-9C4358D6E5FB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1B3A04DF-6FD2-4DD6-AD08-ED8182069367}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B3A04DF-6FD2-4DD6-AD08-ED8182069367}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B3A04DF-6FD2-4DD6-AD08-ED8182069367}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B3A04DF-6FD2-4DD6-AD08-ED8182069367}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
